@@ -2,5 +2,5 @@
 .vscode
 __pycache__
 .env
-data_storage/*.json
-data_storage/images/*.*
+/data_storage/*
+/data_storage/images/*

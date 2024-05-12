@@ -1,4 +1,6 @@
+.venv
+.vscode
+__pycache__
 .env
-.env/*
-
-gpt
+data_storage/*.json
+data_storage/images/*

@@ -3,4 +3,4 @@
 __pycache__
 .env
 data_storage/*.json
-data_storage/images/*
+data_storage/images/*.*
